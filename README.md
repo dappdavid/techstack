@@ -1,4 +1,4 @@
-# Techstack for java dev
+# Techstack used in the projects
 
 ### Version
 - Java 17
