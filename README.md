@@ -78,7 +78,11 @@
 - CAP theorem
 - ACID properties
 - 12 factor app
-- System design
+
+### System design
+- System design topics
+- System design interview framework
+- System design questions
 
 ### Build tools
 - Maven
