@@ -15,7 +15,6 @@
       <module fileurl="file://$PROJECT_DIR$/../leetcode_java/leetcode_java.iml" filepath="$PROJECT_DIR$/../leetcode_java/leetcode_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/messagebrokers/messagebrokers.iml" filepath="$PROJECT_DIR$/messagebrokers/messagebrokers.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservices/microservices.iml" filepath="$PROJECT_DIR$/microservices/microservices.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../nonfaang/nonfaang.iml" filepath="$PROJECT_DIR$/../nonfaang/nonfaang.iml" />
       <module fileurl="file://$PROJECT_DIR$/others/others.iml" filepath="$PROJECT_DIR$/others/others.iml" />
       <module fileurl="file://$PROJECT_DIR$/security/security.iml" filepath="$PROJECT_DIR$/security/security.iml" />
       <module fileurl="file://$PROJECT_DIR$/systemdesign/systemdesign.iml" filepath="$PROJECT_DIR$/systemdesign/systemdesign.iml" />
