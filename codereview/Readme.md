@@ -1,0 +1,55 @@
+# Code review Checklist
+
+- **Code style**
+    - Does the code follow the project's coding standards and conventions?
+    - Are the variable and function names descriptive and meaningful?
+    - Is the code free of duplication or redundant elements?
+    - Avoid unnecessary comments in code.
+    - Is the code well-documented, including comments and inline documentation?
+- **Tests**
+    - do the tests adequately cover the functionality, including edge cases?
+    - do the tests clear the minimum test coverage rate using a tool like jUnit or jaCoco
+- **Clean code**
+    - Is the code well-organized, concise and easy to understand?
+    - Is the code located in the right file/folder/package?
+    - Ensure the code follows appropriate error handling procedures
+    - Optimize to use switch-case over multiple If-Else statements
+    - Check if some common functionalities can be extracted
+    - Check if refactoring can be done
+    - Handle strings appropriately
+        - If you need to perform a lot of operations on a [String](https://stackabuse.com/string-vs-stringbuilder-vs-stringbuffer-in-java/), use StringBuilder or StringBuffer.
+    - Make sure it handles constants efficiently
+        - Constants help improve memory as they are cached by the JVM.
+        - For values that are reused across multiple places, create a constant file that holds static values.
+        - Favor database-driven values over dynamic values.
+        - Also, use ENUMs to group constants.
+    - If there are existing utility/helper methods available, reuse it instead of reinventing the wheel.
+    - Does this change add unwanted compile-time or run-time dependencies?
+- **Clean architecture**
+    - Does it follow the SOLID principles
+    - Override hashCode when overriding equals
+    - Validate that the code follows separation of concerns : different concerns or responsibilities should be separated into different modules or layers, rather than being mixed together
+    - Does this change have any ramifications for other parts of the system, backward compatibility
+    - Does the code rely on frameworks rather than custom logic when possible
+    - Does the code follow good design practices, such as separation of concerns and modularity?
+    - Will this code change will impact system performance in a negative way
+- **Feature based points**
+    - Does the code cover all the use cases as part of the user story or feature?
+    - Are all the edge cases of the user story implemented and tested as part of the code change?
+    - Is Acceptance criteria fulfilled as part of the user story?
+- **API specific**
+    - Is the API following good coding practices, such as using descriptive and meaningful variable names and adhering to a consistent code style
+    - Is the API avoiding unnecessary code complexity?
+    - Are the API methods and their dependencies appropriately tested, and are the test cases covering a wide range of input and edge cases?
+    - Is the API handling errors and exceptions in a consistent and appropriate way, and are the error responses well-structured and meaningful?
+- **Database**
+    - Is the database access code using appropriate connection pooling and connection management techniques to ensure efficient use of resources and prevent resource exhaustion?
+    - Is the database access code using appropriate exception handling and error handling techniques, and are errors and exceptions being logged and handled appropriately?
+    - Are the database queries optimized for performance, and are they using appropriate indexing and other performance-enhancing techniques?
+    - Is the database access code using appropriate transaction management techniques to ensure data consistency and integrity?
+- **Security**
+    - Make sure variables don’t cause memory leaks
+    - Is the code properly encrypted and protected when handling sensitive data, such as passwords or personal information?
+    - Is the code free of vulnerabilities, such as injection attacks or cross-site scripting (XSS)?
+- **Documentation**
+    - Is the associated documentation up-to-date and accurate?
