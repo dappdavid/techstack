@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture/architecture.iml" filepath="$PROJECT_DIR$/architecture/architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildtools/buildtools.iml" filepath="$PROJECT_DIR$/buildtools/buildtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caching/caching.iml" filepath="$PROJECT_DIR$/caching/caching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud/cloud.iml" filepath="$PROJECT_DIR$/cloud/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codereview/codereview.iml" filepath="$PROJECT_DIR$/codereview/codereview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databases/databases.iml" filepath="$PROJECT_DIR$/databases/databases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devops/devops.iml" filepath="$PROJECT_DIR$/devops/devops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate/hibernate.iml" filepath="$PROJECT_DIR$/hibernate/hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java/java.iml" filepath="$PROJECT_DIR$/../java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../leetcode_java/leetcode_java.iml" filepath="$PROJECT_DIR$/../leetcode_java/leetcode_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messagebrokers/messagebrokers.iml" filepath="$PROJECT_DIR$/messagebrokers/messagebrokers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/microservices.iml" filepath="$PROJECT_DIR$/microservices/microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nonfaang/nonfaang.iml" filepath="$PROJECT_DIR$/../nonfaang/nonfaang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/others/others.iml" filepath="$PROJECT_DIR$/others/others.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/security.iml" filepath="$PROJECT_DIR$/security/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemdesign/systemdesign.iml" filepath="$PROJECT_DIR$/systemdesign/systemdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/techstack.iml" filepath="$PROJECT_DIR$/.idea/techstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/testing.iml" filepath="$PROJECT_DIR$/testing/testing.iml" />
+    </modules>
+  </component>
+</project>
