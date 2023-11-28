@@ -12,6 +12,7 @@
       <list>
         <option value="$PROJECT_DIR$/spring/springsecurity/pom.xml" />
         <option value="$PROJECT_DIR$/spring/springaop/pom.xml" />
+        <option value="$PROJECT_DIR$/API/restapi/pom.xml" />
       </list>
     </option>
   </component>
