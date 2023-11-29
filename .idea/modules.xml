@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/systemdesign/systemdesign.iml" filepath="$PROJECT_DIR$/systemdesign/systemdesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/techstack.iml" filepath="$PROJECT_DIR$/.idea/techstack.iml" />
       <module fileurl="file://$PROJECT_DIR$/testing/testing.iml" filepath="$PROJECT_DIR$/testing/testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theory/theory.iml" filepath="$PROJECT_DIR$/theory/theory.iml" />
     </modules>
   </component>
 </project>
