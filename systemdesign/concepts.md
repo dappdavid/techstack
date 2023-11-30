@@ -1,0 +1,48 @@
+# System design concepts
+
+- IP
+- OSI model
+- TCP & UDP
+- Domain name system
+- Load balancing
+- Clustering
+- Caching
+- Content delivery network
+- Proxy
+- Availability
+- Scalability
+- Storage
+- Databases & DBMS
+- SQL databases
+- NoSQL databases
+- SQL vs NoSQL databases
+- Database replication
+- Indexes
+- Normalization & Denormalization
+- ACID & Base consistency models
+- CAP theorem
+- PACELC theorem
+- Transactions
+- Distributed Transactions
+- Sharding
+- Consistent Hashing
+- Database federation
+- N-tier architecture
+- Message brokers
+- Message queues
+- Publish-Subscribe
+- Enterprise service bus
+- Event sourcing
+- Command and query responsibility segregation
+- API gateway
+- REST, graphQL, gRPC
+- Long polling, Web sockets, server sent events
+- Geohashing and Quad trees
+- Circuit breaker
+- Rate limiting
+- Service discovery
+- SLA, SLO, SLI
+- Virtual machines, images and containers
+- OAuth2.0 and OpenID connect
+- Single Sign On (SSO)
+- SSL, TLS, mLS

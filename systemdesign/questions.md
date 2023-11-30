@@ -1,0 +1,26 @@
+# System design questions
+- Design a rate limiter
+- Design a consistent hashing
+- Design a key-value store
+- Design a unique ID generator in distributed systems
+- Design a URL shortener
+- Design a web crawler
+- Design a notification system
+- Design a newsfeed system
+- Design a chat system
+- Design a search autocomplete system
+- Design YouTube
+- Design google drive
+- Proximity service
+- Nearby friends
+- Google maps
+- Distributed message queue
+- Metrics monitoring and alerting system
+- Ad click event aggregation
+- Hotel reservation system
+- Distributed email service
+- S3-like object storage
+- Real-time gaming leaderboard
+- Payment system
+- Digital wallet
+- Stock exchange
