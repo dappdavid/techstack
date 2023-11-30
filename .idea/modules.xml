@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AI/AI.iml" filepath="$PROJECT_DIR$/AI/AI.iml" />
       <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture/architecture.iml" filepath="$PROJECT_DIR$/architecture/architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/aws/aws.iml" filepath="$PROJECT_DIR$/aws/aws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azure/azure.iml" filepath="$PROJECT_DIR$/azure/azure.iml" />
       <module fileurl="file://$PROJECT_DIR$/buildtools/buildtools.iml" filepath="$PROJECT_DIR$/buildtools/buildtools.iml" />
       <module fileurl="file://$PROJECT_DIR$/caching/caching.iml" filepath="$PROJECT_DIR$/caching/caching.iml" />
       <module fileurl="file://$PROJECT_DIR$/codereview/codereview.iml" filepath="$PROJECT_DIR$/codereview/codereview.iml" />
