@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/../faang/faang.iml" filepath="$PROJECT_DIR$/../faang/faang.iml" />
       <module fileurl="file://$PROJECT_DIR$/../java/java.iml" filepath="$PROJECT_DIR$/../java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/../leetcode/leetcode.iml" filepath="$PROJECT_DIR$/../leetcode/leetcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/techstack.iml" filepath="$PROJECT_DIR$/.idea/techstack.iml" />
     </modules>
   </component>
